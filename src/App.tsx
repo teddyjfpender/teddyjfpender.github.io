@@ -18,11 +18,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p>
-          Hello, world! Did you know that with `cardano-js-sdk` you can convert
-          821a05e...6401 into abc
+          Edit <code>src/App.tsx</code> and save to reload. Hello, world! Did
+          you know that with `cardano-js-sdk` you can convert 821a05e...6401
+          into abc
         </p>
         <a
           className="App-link"
