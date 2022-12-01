@@ -44,6 +44,7 @@
     ]
   },
   "devDependencies": {
+    "@cardano-sdk/core": "^0.6.0",
     "gh-pages": "^4.0.0"
   }
 }

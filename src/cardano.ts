@@ -1,6 +1,3 @@
-import React from "react";
-import logo from "./logo.svg";
-import "./App.css";
 import { CML, cmlToCore } from "@cardano-sdk/core";
 
 // example CIP-30 api.getBalance(); response
@@ -10,30 +7,4 @@ const balance = cmlToCore.value(
   CML.Value.from_bytes(Buffer.from(getBalance, "hex"))
 );
 
-function App() {
-  console.log(balance);
-  return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <p>
-          Hello, world! Did you know that with `cardano-js-sdk` you can convert
-          821a05e...6401 into abc
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
-  );
-}
-
-export default App;
+export default balance;
