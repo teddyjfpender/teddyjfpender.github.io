@@ -8,7 +8,7 @@
 	<div class="info">
 		<h2>
 			Howdy, I'm Teddy 👋 <br> I currently live in London & work at
-			<SparklingHighlight color="secondary">Starknet Foudnation</SparklingHighlight>
+			<SparklingHighlight color="secondary">Starknet Foundation</SparklingHighlight>
 		</h2>
 		<p>
 			I'm interested in human-computer interaction, web3, and zero-knowledge cryptography.
