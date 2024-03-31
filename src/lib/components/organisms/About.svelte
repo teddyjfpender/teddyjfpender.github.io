@@ -7,23 +7,16 @@
 <section id="about">
 	<div class="info">
 		<h2>
-			This is a catchy headline that
-			<SparklingHighlight color="secondary">sparkles!</SparklingHighlight>
+			Howdy, I'm Teddy 👋 <br> I currently live in London & work at
+			<SparklingHighlight color="secondary">Starknet Foudnation</SparklingHighlight>
 		</h2>
 		<p>
-			Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptatum velit voluptatibus commodi
-			autem provident quam labore, libero beatae praesentium voluptate?
+			I'm interested in human-computer interaction, web3, and zero-knowledge cryptography.
 		</p>
 		<div class="socials">
 			<span>Socials:</span>
 			<Socials />
 		</div>
-	</div>
-	<div class="image">
-		<Image
-			src="/images/sample-image.png"
-			alt="Sample for the static template"
-		/>
 	</div>
 </section>
 

@@ -19,5 +19,4 @@
 	{#if posts && posts.length > 0}
 		<RecentPosts {posts} />
 	{/if}
-	<Features {features} />
 </div>

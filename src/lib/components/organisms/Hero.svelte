@@ -6,21 +6,21 @@
 </script>
 
 <section id="hero">
-	<h1 class="hello">This is a SvelteKit Static Blog Template!</h1>
+	<h1 class="hello">Musings</h1>
 	<p class="intro">
-		<span class="left">It supports Markdown,</span>
-		<span class="right">and is really fast.</span>
+		<span class="left">A collection of my thoughts,</span>
+		<span class="right">its not supposed to make sense.</span>
 	</p>
 	<div class="ctas">
 		<Sparkles>
-			<Button href="https://github.com/matfantinel/sveltekit-static-blog-template">
+			<Button href="https://github.com/teddyjfpender">
 				<GitHubIcon slot="icon" />
-				Source Code
+				My Github
 			</Button>
 		</Sparkles>
-		<Button color="primary" href="https://histoire-sveltekit-static-blog-template.vercel.app/">
+		<Button color="primary" href="https:/x.com/franklyteddy">
 			<FeaturesIcon slot="icon" />
-			Components
+			Twitter/X
 		</Button>
 	</div>
 </section>
