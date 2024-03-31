@@ -6,7 +6,7 @@
 
 <div class="socials">
 	<a
-		href="t.me/teddyjfpender"
+		href="https://t.me/teddyjfpender"
 		target="_blank"
 		rel="noopener noreferrer"
 		title="Say Hi on Telegram"
